@@ -1,0 +1,79 @@
+
+#dropmenu {
+	margin:0;
+	padding:0;
+}
+
+#dropmenu ul {
+	margin:30px;
+	padding:0;
+line-height: 30px;
+
+}
+#dropmenu li {
+	margin:0;
+	padding:0;								
+	list-style: none;
+	clear:both;
+position:relative;
+
+}
+
+
+#dropmenu ul li a {
+	text-align:left;
+font-size: 200%;
+	font-family:"Comic Sans MA", cursve;
+text-decoration:none;
+height:30px;
+width:150px;
+display:block;
+margin: 30px;																																																																																																																	
+
+}
+																																																									
+#dropmenu ul ul {
+
+position:absolute;
+visibility:hidden;
+top: 30px;
+
+}
+
+#dropmenu ul:hover ul li{
+visibility:visible;
+
+
+}
+img { display: block; 
+border-radius:100%; }
+#pic {
+
+ 
+   border-radius:100%;
+text-align: center;
+position: absolute;
+    left: 10%;
+    top: 20%;
+box-shadow: 10px 20px 30px 5px #000000;
+}
+
+#name {
+position:absolute;
+left: 40%;
+top: 35%;
+font-size: 150%;
+font-family: Century Gothic;
+	
+}
+body {
+background-image: url("blue.jpg"); 
+ webkit-background-size: cover;
+ moz-background-size: cover;
+ o-background-size: cover;
+ background-size: cover;
+
+
+
+}
+
