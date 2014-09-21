@@ -11,9 +11,7 @@ opacity: 0.8;
 
 
 	}
-#menubar:hover {
-visibility: display;
-}
+
 #dropmenu {
 	
 
@@ -25,9 +23,9 @@ border-radius:16px;*/
 	height: 100px;
 	width: 1000px;
 	font-size: 40px;
-	margin-left: 100px;
+	margin-left: 170px;
 	
-	text-align: justify;
+	text-align: center;
 	animation: fadein 5s;
 	-webkit-animation: fadein 5s;
 font-family: Century Gothic; }
@@ -59,54 +57,7 @@ a:active {
 	text-decoration: none;
 }
 
-/*#dropmenu ul {
-	
-list-style: none;
-position:absolute;
 
-
-}
-#dropmenu li {
-margin:0;
-	padding-top 1px;								
-	
-	clear:both;
-
-
-height: 50px;
-	width: 200px;
-	display: inline-block;
-	font-size: 10px;
-	text-align: center;
-
-}
-
-
-#dropmenu ul li a {
-
-font-size: 200%;
-font-family:"Comic Sans MA", cursve;
-text-decoration:none;
-height:30px;
-width:150px;
-
-margin:30px;																																																																																																																	
-
-}
-																																																									
-#dropmenu ul ul {
-
-position:absolute;
-visibility:hidden;
-top: 30px;
-
-}
-
-#dropmenu ul:hover ul li{
-visibility:visible;
-
-
-}*/
 
 
 img { display: block; 
@@ -120,7 +71,7 @@ position: absolute;
     left: 50%;
     top: 30%;
 border-style: solid;
-border-size: 65px;
+border-size: 400px;
 border-color: white;
 }
 
