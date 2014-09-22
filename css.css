@@ -17,6 +17,8 @@ margin-bottom: 5px;
 	}
 
 #bio {
+margin-right: 15px;
+margin-left: 10px;
 margin-top: 1px;
 z-index: -1;
 font-family:Century Gothic;
@@ -24,6 +26,8 @@ font-size: 23px;
 background-color: #FFFFFF;
 opacity: .9;
 position:absolute;
+text-align: center;
+line-height: 151%;
 
 top: 15%;
 }
