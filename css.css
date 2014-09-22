@@ -8,17 +8,28 @@ width: 100%;
 	top: -8px; 
 	left: 0px;
 opacity: 0.8;
-
-
+}
+h1 {
+font-family: Century Gothic;
+text-align: center;
+margin-top: 5px;
+margin-bottom: 5px;
 	}
 
-#dropmenu {
-	
+#bio {
+margin-top: 1px;
+z-index: -1;
+font-family:Century Gothic;
+font-size: 23px;
+background-color: #FFFFFF;
+opacity: .9;
+position:absolute;
 
-/*border: 10px;
-border-color: blue;
-border-style:outset;
-border-radius:16px;*/
+top: 15%;
+}
+#dropmenu {
+	z-index: 1;
+
 	text-decoration: none;
 	height: 100px;
 	width: 1000px;
@@ -33,6 +44,7 @@ font-family: Century Gothic; }
 
 /*link styling ideas from http://www.w3schools.com/css/css_link.asp*/
 /* unvisited link */
+
 a:link {
     color: black;
 
