@@ -60,7 +60,7 @@ padding-right: 5px;
 
 
 	
-}
+
 
 #bio {
 margin-right: 15px;
@@ -74,6 +74,8 @@ opacity: .9;
 position:absolute;
 text-align: center;
 line-height: 151%;
+	border: 2px solid black;
+	border-radius: 5px;
 
 top: 15%;
 }
