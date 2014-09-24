@@ -71,7 +71,6 @@ ul {
 	font-size: 40px;
 	margin-left: 50px;
 	text-align: left;
-
 	font-family: Century Gothic; 
 }
 
@@ -100,22 +99,24 @@ a:hover {
     color: #B0C4DE;
 	text-decoration: none;
 }
-img { display: block;
-border-radius:100%; 
-width: 320px;
-height: 320px;}
+img { 
+	display: block;
+	border-radius:100%; 
+	width: 320px;
+	height: 320px;
+}
 #pic {
-width: 320px;
-height: 320px;
-z-index: 1;
-border-radius:100%;
-text-align: center;
-position: absolute;
-left: 20%;
-top: 35%;
-border-style: solid;
-border-size: 400px;
-border-color: black;
+	width: 320px;
+	height: 320px;
+	z-index: 1;
+	border-radius:100%;
+	text-align: center;
+	position: absolute;
+	left: 20%;
+	top: 35%;
+	border-style: solid;
+	border-size: 400px;
+	border-color: black;
 }
 
 
@@ -135,7 +136,7 @@ border-color: black;
 
 #Skills {
 	margin-top: 20px;
-	margin-right: 10%;
+	margin-right: 4%;
 	width: 450px;
 	position: relative;
 	padding-left: 10px;
@@ -147,29 +148,11 @@ border-color: black;
 	float: right;
 	border: 2px solid black;
 	border-radius: 5px;
-	
 }
 
 #Activities {
 	margin-top: 20px;
-	margin-right: 10%;
-	width: 450px;
-	position: relative;
-	padding-left: 10px;
-	padding-right: 10px;
-	font-family:Century Gothic;
-	font-size:17px;
-	background-color: #FFFFFF;
-	opacity: .9;
-		float: right;
-	border: 2px solid black;
-	border-radius: 5px;
-	
-}
-
-#RelevantCourses{
-	margin-top: 20px;
-	margin-right: 10%;
+	margin-right: 4%;
 	width: 450px;
 	position: relative;
 	padding-left: 10px;
@@ -181,14 +164,27 @@ border-color: black;
 	float: right;
 	border: 2px solid black;
 	border-radius: 5px;
-	
-	
+}
+
+#RelevantCourses{
+	margin-top: 20px;
+	margin-right: 4%;
+	width: 450px;
+	position: relative;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family:Century Gothic;
+	font-size:17px;
+	background-color: #FFFFFF;
+	opacity: .9;
+	float: right;
+	border: 2px solid black;
+	border-radius: 5px;	
 }
 
 #Experience {
-	margin-left: 10%;
+	margin-left: 4%;
 	position: relative;
-
 	padding-left: 10px;
 	padding-right: 10px;
 	font-family:Century Gothic;
@@ -199,13 +195,11 @@ border-color: black;
 	float: left;
 	border: 2px solid black;
 	border-radius: 5px;
-
 	padding-bottom: 40px;
 }
 
 #Education {
-
-margin-right: 10%;
+	margin-right: 4%;
 	position: relative;
 	padding-left: 10px;
 	padding-right: 10px;
@@ -217,9 +211,7 @@ margin-right: 10%;
 	float: right;
 	border: 2px solid black;
 	border-radius: 5px;
-
 	width: 450px;
-	
 }
 
 #as-pdf {
@@ -227,23 +219,17 @@ margin-right: 10%;
 	font-size: 20px;
 }
 
-
 #container {
-
-    
 	height: 30em;
 	width: 65em;
-	
-margin-top: 12%;
-  margin-left: auto;
+	margin-top: 12%;
+  	margin-left: auto;
     margin-right: auto;
 	background-color: #FFFFFF;
 	opacity: .8;
-	
 	border: 2px solid black;
 	border-radius: 5px;
 }
-
 
 body {
 	background: url("motherboard.jpg") no-repeat center center fixed;
