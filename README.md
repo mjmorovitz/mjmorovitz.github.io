@@ -9,4 +9,4 @@ All parts of the project were done using only CSS and HTML, no frameworks. Depen
 
 Advice for this project was given by former comp 20 student Ariel Luque and TA George Brown. Additional resources used include http://www.w3schools.com, stackoverflow.com, & codeacademy.com.  
 
-The project was completed over the span of two weeks and took approximately 15 hours. Much of the inital time spent was in learning HTML and CSS. At least 5 additional hours were spent on adjusting objects for changing screen sizes.  
+The project was completed over the span of two weeks and took approximately 20 hours. Much of the inital time spent was in learning HTML and CSS. At least 5 additional hours were spent on adjusting objects for changing screen sizes.  
