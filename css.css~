@@ -220,7 +220,7 @@ a:hover {
 
 #as-pdf {
 	text-align: left;
-	font-size: 20px;
+	font-size: 10px;
 }
 /*
 #container {
