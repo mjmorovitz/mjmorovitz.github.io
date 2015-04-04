@@ -202,9 +202,7 @@ a:hover {
 
 #Education {
 
-	margin-top: 20px;
 	margin-right: 4%;
-	width: 34%;
 	position: relative;
 	padding-left: 10px;
 	padding-right: 10px;
@@ -212,10 +210,11 @@ a:hover {
 	font-size:17px;
 	background-color: #FFFFFF;
 	opacity: .9;
+	margin-top: 20px;
 	float: right;
 	border: 2px solid black;
 	border-radius: 5px;
-}
+	width: 34%;
 }
 
 #as-pdf {
